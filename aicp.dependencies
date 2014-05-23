@@ -20,8 +20,8 @@
      "branch": "kitkat"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_samsung_smdk4412",
-    "target_path": "kernel/samsung/smdk4412",
-    "branch":      "cm-11.0"
+     "repository": "SlimRoms/kernel_samsung_smdk4412",
+     "target_path": "kernel/samsung/smdk4412",
+     "branch": "kk4.4"
   }
 ]
